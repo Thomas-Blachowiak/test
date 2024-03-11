@@ -1,0 +1,16 @@
+.titleName {
+    color: #B80734;
+}
+
+#logo {
+    height: 60px;
+    width: auto;
+}
+
+.nav-pills .nav-link {
+    color: black;
+}
+
+.nav-pills .nav-link:hover {
+    color: #B80734;
+}
